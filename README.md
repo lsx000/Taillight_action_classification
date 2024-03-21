@@ -33,10 +33,12 @@ Install required packages
 + pandas==2.0.3
 
 ## Train
+Train the network
 `python ALSTM.py`
 
 ## Test
+Test the network
 `python testAlstm.py`
 
 
-This project is my work during my master's degree. I have graduated now. Due to the loss of the original data and code, the source code is irrecoverable. I found and recovered some of them according to open source data, and achieved partial classification effects. Effects and codes are for reference only.
+This project is my work during my master's degree. I have graduated now. Due to the loss of the original data and code, the source code is irrecoverable. I found and recovered some of them according to open source data, and achieved partial classification effects. Effects and codes are for reference only. Your own dataset path needs to be added to `iterater.py`
