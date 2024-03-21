@@ -79,7 +79,7 @@ class trainset(Dataset):
      
 def dataiter():
     
-    path = 'train path'
+    path = '/traintail'
     name_list = os.listdir(path)
     path_list = []
     for name in name_list:
@@ -105,7 +105,7 @@ class testset(Dataset):
         return len(self.images)
 def data_test():
     
-    path = 'test path'
+    path = '/testtail'
     
     name_list = os.listdir(path)
     name_list.sort()
