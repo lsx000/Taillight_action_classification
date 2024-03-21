@@ -5,8 +5,7 @@ If you use this project for your academic research, please consider citing the f
 
 Bibtex
 
-
-(```)
+```
 @article{song2022action,
   title={Action-state joint learning-based vehicle taillight recognition in diverse actual traffic scenes},
   author={Song, Wenjie and Liu, Shixian and Zhang, Ting and Yang, Yi and Fu, Mengyin},
@@ -17,7 +16,9 @@ Bibtex
   year={2022},
   publisher={IEEE}
 }
-(```)
+```
+
+
 
 ## Dependencies
 This project has been tested on Ubuntu 18.04. 
