@@ -7,7 +7,6 @@ from torch.autograd import Variable
 import numpy as np 
 import cv2 
 import torch.nn.functional as func
-# import dataprepro
 import iterater as ite
 import math
 from model import SegNet
