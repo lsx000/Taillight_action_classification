@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Mar 19 10:49:15 2020
-
 @author: lsx
 """
 #from __future__ import print_function
