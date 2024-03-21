@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Mar  8 20:46:56 2020
-
 @author: lsx
 """
 import torch
